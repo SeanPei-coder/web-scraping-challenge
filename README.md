@@ -1,5 +1,7 @@
 # web-scraping-challenge
 
+![Alt Text](https://github.com/SeanPei-coder/web-scraping-challenge/blob/main/Missions_to_Mars/images/scraping-demo.gif)
+
 ## Intro
 
 In this activity, I built a web application that scraped various websites for data related to the Mission to Mars and displays the information in multi HTML pages. The following outlines what I did.
